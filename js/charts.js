@@ -66,8 +66,10 @@ function buildCharts(sample) {
     var result = samplesArray[0];
 
     // 6. Create variables that hold the otu_ids, otu_labels, and sample_values.
+    var otuDicts = {}
+    
     Object.entries(result).forEach(([key, value]) => {
-      PANEL.append("h6").text(`${key.toUpperCase()}: ${value}`);
+      otuDicts.append(`${key()}: ${value}`);
     });
 
   });
