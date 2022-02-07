@@ -14,3 +14,10 @@ https://darlenepenn.github.io/BootcampPlotly/
 
 ![Gauge Chart](/images/GaugeChart.PNG)
 ![Corresponding Code](/images/GaugeChartCode.PNG)
+
+![Bubble Chart](/images/BubbleChart.PNG)
+
+
+###Webpage was customized with a background picture for the jumbotron, background color, and making the webpage responsive to device screen.  Original rendering of website looked like this:
+
+![initial website](/images/EntirePage.PNG)
